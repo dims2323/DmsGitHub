@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzArO1CmPl8ql/6dN69kltnRjkw/aNZNzRZnF38Vxs/PsNfX/JYlDpJC3iIpufjhcgqd98wXurapGbkZ5mO8DQ==",
+  "success": true,
+  "projectFilePath": "E:\\GDriveWork\\Lets Work\\Opportunity\\Xtramile Solution\\Source Code\\Practical Test\\WebAPI\\WebDemo\\WebDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimas\\.nuget\\packages\\jquery\\1.12.4\\jquery.1.12.4.nupkg.sha512",
+    "C:\\Users\\Dimas\\.nuget\\packages\\jquery.ui\\1.12.1.1\\jquery.ui.1.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

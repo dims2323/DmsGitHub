@@ -1,0 +1,10 @@
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache

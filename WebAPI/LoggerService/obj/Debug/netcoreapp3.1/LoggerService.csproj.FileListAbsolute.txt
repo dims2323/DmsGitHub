@@ -1,0 +1,15 @@
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete

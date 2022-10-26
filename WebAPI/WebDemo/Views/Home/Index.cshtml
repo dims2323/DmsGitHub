@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Dropdown List of Country and City</h1>
+<hr />
+<br />
+<div class="row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-6">
+
+        <div class="form-group">
+            <label class="col-md-4 control-label">Country Name</label>
+            <div class="col-md-6">
+                <select class="form-control" id="ddlCountry"></select><br />
+            </div>
+        </div>
+
+        <br />
+        <div class="form-group">
+            <label class="col-md-4 control-label">City Name</label>
+            <div class="col-md-6">
+                <select class="form-control" id="ddlCity"></select>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3"></div>
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script>
+    $(document).ready(function () {
+
+        var ddlCountry = $('#ddlCountry');
+        ddlCountry.append($("<option></option>").val('').html('Please Select Country'));
+        $.ajax({
+            url: 'https://localhost:44354/api/location/country',
+            type: 'GET',
+            dataType: 'json',
+            success: function (d) {
+                $.each(d, function (i, country) {
+                    ddlCountry.append($("<option></option>").val(country.Country_Id).html(country.Country_Name));
+                });
+            },
+            error: function () {
+                alert('Error!');
+            }
+        });
+
+        //City details by country id
+
+        $("#ddlCountry").change(function () {
+            var CountryId = parseInt($(this).val());
+
+            if (!isNaN(CountryId)) {
+                var ddlState = $('#ddlCity');
+                ddlCity.empty();
+                ddlCity.append($("<option></option>").val('').html('Please wait ...'));
+
+                debugger;
+                $.ajax({
+                    url: 'https://localhost:44354/api/location/city',
+                    type: 'GET',
+                    dataType: 'json',
+                    data: { CountryId: CountryId },
+                    success: function (d) {
+
+                        ddlCity.empty(); // Clear the please wait
+                        ddlCity.append($("<option></option>").val('').html('Select City'));
+                        $.each(d, function (i, cities) {
+                            ddlCity.append($("<option></option>").val(city.CityId).html(city.CityName));
+                        });
+                    },
+                    error: function () {
+                        alert('Error!');
+                    }
+                });
+            }
+
+
+        });
+
+        
+    });
+</script>  

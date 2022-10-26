@@ -1,0 +1,15 @@
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\GDriveWork\Lets Work\Opportunity\Xtramile Solution\Source Code\Practical Test\WebAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
